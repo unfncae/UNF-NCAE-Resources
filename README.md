@@ -8,30 +8,27 @@ Welcome to my repository for the NCAE Red vs Blue competition. This README docum
 - [PowerPoints](#powerpoints)
 - [Documents](#documents)
 - [Scripts](#scripts)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [Credits](#credits)
-- [License](#license)
 
 ## Introduction
 
-Briefly introduce the competition and the purpose of these resources. Mention how these resources helped you in the competition preparation.
+To properly prepare for the NCAE Red vs Blue competition, we studied a variety of resources, as well as created some of our own. Some members created resources for presenting to the team to better understand the topic. Other documents were used specifically during competition day.
 
 ## PowerPoints
 
 Here you'll find PowerPoint presentations covering various cybersecurity topics and strategies used in the competition.
 
-- [Topic 1 Presentation](link-to-presentation)
-- [Topic 2 Presentation](link-to-presentation)
-- ...
+- [Machine Configurations](https://docs.google.com/presentation/d/1HY_xXdgQ_eW-o6xLOcfd6rAkXAa1gjCJcTXOj9kxfWo/edit#slide=id.p)
+- [Services](https://docs.google.com/presentation/d/16uhRGiZ3PHtEOM4jL6XqZ3qbtVnyW7YOP8q47wwn5VQ/edit#slide=id.p)
 
 ## Documents
 
-This section contains documents, guides, and cheat sheets that were essential during my preparation.
+This section contains documents, guides, and cheat sheets that were essential during the team's preparation as well as during the competition day itself.
 
-- [Guide to Cybersecurity Basics](link-to-document)
-- [Red Team Strategies](link-to-document)
-- ...
+- [NCAE Competition Step-by-Step Guide](https://docs.google.com/document/d/1XrNtJrgqn1LtroutYwVFUF1C5_BzhqNlThMmhYNokhs/edit#heading=h.bisk4o12sr8b)
+- [Study Material: NCAE Competition](https://docs.google.com/document/d/1XWVXdfVS8yiL7iS4WMz0DwvgTLWVdwsGxsKtdmtEOus/edit)
+- [Study Material: NCAE Competition](https://docs.google.com/document/d/1XWVXdfVS8yiL7iS4WMz0DwvgTLWVdwsGxsKtdmtEOus/edit)
+- 
 
 ## Scripts
 
@@ -41,25 +38,7 @@ A collection of scripts used for automation, analysis, and more during the compe
 - [Analysis Script](link-to-script)
 - ...
 
-## Usage
-
-Instructions on how to use the provided resources, if applicable. This could include steps to run the scripts, how to view the PowerPoints, or suggestions on how to best utilize the documents for learning.
-
-## Contributing
-
-If you'd like to contribute to this collection of resources, please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
-
 ## Credits
 
 Acknowledge anyone who contributed to these resources or if you sourced information from specific places.
-
-## License
-
-State the license under which these resources are shared. If you're unsure, [MIT](https://choosealicense.com/licenses/mit/) is a good default choice.
 
